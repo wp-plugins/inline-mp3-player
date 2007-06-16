@@ -1,4 +1,12 @@
 * Inline mp3 player *
+Contributors: pjoe.net
+Authors: Joep Vermaat
+Donate link: http://pjoe.net/software/mp3inline/
+Tags: mp3, player, music, preview, flash, javascript, soundkit, dhtml
+Requires at least: 2.0
+Tested up to: 2.2
+Stable tag : 2.2
+Version: 0.1
 
 http://pjoe.net
 
