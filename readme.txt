@@ -1,18 +1,16 @@
-* Inline mp3 player *
-Contributors: pjoe.net
+=== Inline mp3 player ===
+Tags: mp3, player, music, preview, flash, javascript, soundkit, dhtml
+Contributors: pjoe
 Authors: Joep Vermaat
 Donate link: http://pjoe.net/software/mp3inline/
-Tags: mp3, player, music, preview, flash, javascript, soundkit, dhtml
 Requires at least: 2.0
 Tested up to: 2.2
-Stable tag : 2.2
 Version: 0.1
+Stable tag : 0.1
 
-http://pjoe.net
+A inline mp3 player for the web, using javascript soundkit and scriptaculous.
 
-An inline mp3 player for the web, using javascript soundkit and scriptaculous.
 Some very basic instruction for now to get this released.
-
 
 * Install *
 
