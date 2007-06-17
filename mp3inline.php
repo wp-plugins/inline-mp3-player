@@ -2,9 +2,7 @@
 /*
 Plugin Name: Inline MP3 Player
 Plugin URI: http://pjoe.net/software/mp3inline/
-Description: Inline mp3 player replacing any link directly to a mp3 files, such as 'http://yoursite.com/musicfile/playing.mp3' into a special link.
-Clicking it will turn the link into a small media player with a
-dhtml slider interface. It works simple, click the link the music starts playing. Drag the tab to browse throught the music. Click the link again to stop. This player uses <a href="http://jssoundkit.sourceforge.net/">Javascript Soundkit</a> and the slider of <a href="http://script.aculo.us/">Scriptaculous</a>.
+Description: Inline mp3 player replacing any link directly to a mp3 file, such as 'http://yoursite.com/musicfile.mp3' into a special link. Clicking it will turn the link into a small media player with a dhtml slider interface. It works simple, click the link the music starts playing. Drag the tab to browse throught the music. Click the link again to stop. This player uses <a href="http://jssoundkit.sourceforge.net/">Javascript Soundkit</a> and the slider of <a href="http://script.aculo.us/">Scriptaculous</a>.
 Version: 0.1
 Author: Joep Vermaat
 Author URI: http://joep-i.nl/
