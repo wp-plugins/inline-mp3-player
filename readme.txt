@@ -10,9 +10,19 @@ Stable tag : 0.1
 
 A inline mp3 player for the web, using javascript soundkit and scriptaculous.
 
-Some very basic instruction for now to get this released.
+== Description ==
 
-* Install *
+Inline mp3 player replacing any link directly to a mp3 file, such as
+'http://yoursite.com/musicfile.mp3' into a special link. Clicking it will
+turn the link into a small media player with a dhtml slider interface. It
+works simple, click the link the music starts playing. Drag the tab to browse
+throught the music. Click the link again to stop. This player uses <a
+href="http://jssoundkit.sourceforge.net/">Javascript Soundkit</a> and the
+slider of <a href="http://script.aculo.us/">Scriptaculous</a>.
+
+== Installation ==
+
+Some very basic instruction for now to get this released.
 
 1. Unpack in plugins directory. 
 2. Switch on the plugin.
@@ -22,7 +32,7 @@ Some very basic instruction for now to get this released.
 
 4. Check the mp3 player
 
-* Changes in look and feel *
+=== Changes in look and feel ===
 
 Check css/player.css and javascript/player.js
 
