@@ -26,13 +26,13 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
 function setplayerscripts() {
 ?>
-<link rel="stylesheet" href="/wp-content/plugins/mp3inline/css/player.css" type="text/css" media="screen" />
-<script type="text/javascript" src="/wp-content/plugins/mp3inline/javascripts/prototype.js"></script>
-<script type="text/javascript" src="/wp-content/plugins/mp3inline/javascripts/domready.js"></script>
-<script type="text/javascript" src="/wp-content/plugins/mp3inline/javascripts/sprintf.js"></script>
-<script type="text/javascript" src="/wp-content/plugins/mp3inline/javascripts/Sound.js"></script>
-<script type="text/javascript" src="/wp-content/plugins/mp3inline/javascripts/Player.js"></script>
-<script type="text/javascript" src="/wp-content/plugins/mp3inline/javascripts/scriptaculous.js"></script>
+<link rel="stylesheet" href="/wp-content/plugins/inline-mp3-player/css/player.css" type="text/css" media="screen" />
+<script type="text/javascript" src="/wp-content/plugins/inline-mp3-player/javascripts/prototype.js"></script>
+<script type="text/javascript" src="/wp-content/plugins/inline-mp3-player/javascripts/domready.js"></script>
+<script type="text/javascript" src="/wp-content/plugins/inline-mp3-player/javascripts/sprintf.js"></script>
+<script type="text/javascript" src="/wp-content/plugins/inline-mp3-player/javascripts/Sound.js"></script>
+<script type="text/javascript" src="/wp-content/plugins/inline-mp3-player/javascripts/Player.js"></script>
+<script type="text/javascript" src="/wp-content/plugins/inline-mp3-player/javascripts/scriptaculous.js"></script>
 <?php
 }
 
